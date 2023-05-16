@@ -1,7 +1,6 @@
-### Hi there 👋
+###👋 What you doing? Where you at? Oh, you got plans? (You got plans?) Don't say that (shut your trap)
 
-
-- 🔭 I’m currently working on Shopify Projects
+- 🔭 Shopify is
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me: eric@ericmartinez.dev
