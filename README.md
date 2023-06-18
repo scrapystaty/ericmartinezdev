@@ -1,6 +1,6 @@
 ### 👋 Hello, what you doing? Where you at? Oh, you got plans?
 
-- 🎓 An ecommerce student 
-- 🌱 I’m currently learning Shopify
-- 💬 Ask me about Shopify Store Setup
-- 📫 How to reach me: eric@ericmartinez.dev
+- 🛑 Can't stop, won't stop improving in Shopify development.  
+- If you have a problem with your Shopify development theme, I might be your guy. 
+- ❤️ Love all things involving Shopify, eCommerce, and coding. 
+- How to reach me: eric@ericmartinez.dev
