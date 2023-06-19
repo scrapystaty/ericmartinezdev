@@ -2,9 +2,9 @@
 
 # Currently offering free theme customizations
 
-- 🛑 Can't stop, won't stop improving in Shopify development.  
-- If you have a problem with your Shopify development theme, I'm your guy. 
-- ❤️ Love all things Shopify, eCommerce, and coding. 
+- Can't 🛑, won't 🛑 improving in Shopify development.  
+- If you have an anamzing 💡 for your Shopify store, I'm your guy. 
+- ❤️ all things Shopify, eCommerce, and coding. 
 - How to reach me: eric@ericmartinez.dev
 <br>
 <a href="https://discord.gg/rbRE2QGE">
