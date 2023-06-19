@@ -1,6 +1,6 @@
 ### 👋 Hello, what you doing? Where you at? Oh, you got plans?
 
-# Currently offering free theme customizations
+# Offering free Shopify theme customizations
 
 - Can't 🛑, won't 🛑 improving in Shopify development.  
 - If you have an anamzing 💡 for your Shopify store, I'm your guy. 
