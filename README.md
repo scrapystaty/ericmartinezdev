@@ -7,6 +7,7 @@
 - ❤️ all things Shopify, eCommerce, and coding. 
 - How to reach me: eric@ericmartinez.dev
 <br>
+/*
 <a href="https://discord.gg/rbRE2QGE">
   <img align="left" alt="Eric's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -16,3 +17,4 @@
 <a href="https://www.linkedin.com/in/eric-martinez-0b2232198/">
   <img align="left" alt="Eric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+*/
